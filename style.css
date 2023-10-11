@@ -1,0 +1,50 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: blue;
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+}
+input{
+    width: 100px;
+    height: 50px;
+    font-size: 40px;
+    border-radius: 10px;
+    margin: 10px;
+    text-align: center;
+}
+.ola:hover{
+    background-color: yellowgreen;
+    cursor: pointer;
+}
+.wale{
+    width: 500px;
+    height: 70px;
+    background-color: bisque;
+}
+.add{
+    background-color: tomato;
+}
+.minus{
+    background-color: turquoise;
+}
+.times{
+    background-color: burlywood;
+}
+.divide{
+    background-color: chartreuse;
+}
+.cancle{
+    background-color: red;
+}
+#btn{
+    text-align: center;
+    width: 300px;
+    height: 100px;
+   font-size: 50px;
+   margin: 10px;
+   border: 10px;
+   border-radius: 10px;
+}
